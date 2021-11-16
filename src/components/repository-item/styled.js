@@ -7,7 +7,7 @@ border-radius:8px;
 border: 1px solid #ccc;
 margin: 10px 10px;
 width:350px;
-height:140px;
+height:150px;
 align-content:center;
 `;
 
