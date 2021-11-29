@@ -46,6 +46,7 @@ display:none;
 
 export const WrapperList = styled.div`
 display:flex;
-justify-content:space-between;
+justify-content:space-evenly;
+
 flex-wrap: wrap;
 `;
