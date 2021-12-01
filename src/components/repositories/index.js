@@ -37,7 +37,7 @@ useEffect (() => {
               <RepositoryItem
                  key={item.id}
                  name={item.name}
-                 
+                 linkToRepo={item.html_url}
                  fullName={item.full_name}
               />
                 ))}
